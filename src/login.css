@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://wallpapertag.com/wallpaper/full/a/e/1/118695-popular-black-gradient-background-2560x1600.jpg");
+}
+
+.hey{
+    text-align: center; margin-top: 15px; color: white;
+}
+
+.login{
+    margin-block-start: 50px; margin-inline-start: 50px; margin-inline-end: 50px; color: white; text-align: start;
+}
+
+.form{
+    margin-top: 25px;
+}
+
+.insidelog{
+    --bs-nav-link-color: var(--bs-white); --bs-nav-pills-link-active-color: var(--bs-primary); --bs-nav-pills-link-active-bg: var(--bs-white);
+}
+
